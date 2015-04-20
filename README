@@ -1,3 +1,14 @@
+Hi Cole! 
+The app runs well on my computer so there is no need for debugging; however, the link to Personal Information is just text and 
+I had to click around awhile to figure out it was a button. I don't know if it looks like a button on IOS application but it doesn't
+on mine. I don't see any problems in your code though. Your button is formatted to have a different background color but it doesn't 
+on an android emulator. 
+Scheme wise I would suggest you source some color theme from the picture you used instead of the brown. I do like the lighter text. 
+Also, the background color of your second window I think should be something other than black that goes with/compliments the 
+theme of window 1. 
+Good job! 
+Shawna 
+
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
